@@ -13,4 +13,5 @@ toc:
 
 site:
   template: book-theme
-  base_url: /red-tide-book/
+  options:
+    base_url: /red-tide-book/
