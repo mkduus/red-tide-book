@@ -15,5 +15,3 @@ site:
   template: book-theme
   options:
     base_url: /red-tide-book
-
-
