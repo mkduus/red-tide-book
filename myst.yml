@@ -1,0 +1,18 @@
+version: 1
+project:
+  id: red-tide-book
+  title: Red Tide Data and Modeling Book
+  author: Matthew Duus
+toc:
+  - file: intro.md
+  - file: Data_SWFL_Combined.ipynb
+  - file: Watershed_Graphics.ipynb
+  - file: ML_Model_SWFL_Combined.ipynb
+  - file: ML_Model_SWFL_With_Tampa.ipynb
+  - file: data.md
+
+site:
+  template: book-theme
+  options:
+    base_url: /red-tide-book
+

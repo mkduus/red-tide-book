@@ -5,12 +5,18 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/data-swfl-combined</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/watershed-graphics</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/data-swfl-combined</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/ml-model-swfl-combined</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/ml-model-swfl-with-tampa</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/data</loc>
   </url>
 </urlset>
